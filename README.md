@@ -1,7 +1,7 @@
 # Covid-Analysis-App
 
-COVID-19 (coronavirus disease 2019) is an illness caused by a virus. This virus is a new coronavirus that has spread throughout the world. It is thought to spread mainly through close contact from person to person. In this project, you'll find resources on important issues such as symptoms, risks, and how you can protect yourself and your family from this highly dangerous disease. 
+The novel coronavirus (COVID-19) that was first reported at the end of 2019 has impacted almost every aspect of life as we know it. This virus is a new coronavirus that has spread throughout the world. It is thought to spread mainly through close contact from person to person. In this project, you'll find resources on important issues such as symptoms, risks, and how you can protect yourself and your family from this highly dangerous disease. 
 
-![image](https://user-images.githubusercontent.com/89973266/140017708-70b05e0b-17d7-4793-88c9-57c18d8dff06.png)
+![image](https://user-images.githubusercontent.com/89973266/140017818-2f81f869-ecd0-4ff6-bf48-541c65371644.png)
 
-
+This website is built with html ,css and javasript which will provide the information about the virus, its symptoms and the necessary precautions we should follow to avoid affected with this virus. 
